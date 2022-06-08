@@ -1,0 +1,32 @@
+.heading {
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
+    margin:0px;
+    height: 75px;
+    font-size: 18px;
+}
+
+.copy_right_footer {
+    text-shadow: 5px 5px 5px gray;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+.note {
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+canvas {
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px gray;
+    background-color: gray;
+}
+
+body {
+    background-image:url("backgroundimg.jpg") ;
+    background-size: cover;
+}
